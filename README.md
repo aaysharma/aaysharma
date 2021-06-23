@@ -20,7 +20,7 @@ Welcome to my Github page! My name is Amatya Sharma. I am a 5th Year Dual Degree
 
 </p>
 
-<hr>
+<br>
 
 Contact Me:
 
