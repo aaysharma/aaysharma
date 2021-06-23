@@ -1,5 +1,5 @@
-### Amatya Sharma
-
+<h1 align="center">Hey 👋! I'm Amatya</h1>
+<h3 align="center">I am a Theoretical Computer Science enthusiast and a coffee aficionado</h3>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aaysharma)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amatya-sharma/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amatyantse@gmail.com)
@@ -17,6 +17,12 @@ Welcome to my Github page! My name is Amatya Sharma. I am a 5th Year Dual Degree
 - 🌎 Know more about me on https://aaysharma.github.io/
 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=aaysharma&show_icons=true&count_private=true" />
+	
+<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaysharma&theme=vue&hide=css,tcl,html"></img>
+<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=aaysharma&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
 
 </p>
+
+
+<h1 align="center">Hey there 👋! Glad to see you here :heart:</h1>
+<h3 align="center">Welcome to my Github page! My name is Amatya Sharma. I am a 5th Year Dual Degree (B.Tech+M.Tech) at Department of Computer Sciene and Engineering, Indian Institute of Technology Kharagpur.</h3>
