@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋! I'm Amatya</h1>
-<h3 align="center">I am a Theoretical Computer Science enthusiast and a Coffee :coffee: Aficionado</h3>
+<h3 align="center">I am a Theoretical Computer Science :memo: enthusiast and a Coffee :coffee: Aficionado</h3>
 
 Welcome to my Github page! My name is Amatya Sharma. I am a 5th Year Dual Degree (B.Tech+M.Tech) at Department of Computer Sciene and Engineering, Indian Institute of Technology Kharagpur.
 
