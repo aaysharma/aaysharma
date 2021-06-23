@@ -1,15 +1,3 @@
-<!-- - 👋 Hi, I’m @aaysharma
-- 👀 I’m interested in Theoretical Computer Science 
-- 🌱 I’m currently learning Algorithms in Learning Theory
-- 💞️ I’m looking to collaborate on Algorithm Design Problems
-- 📫 How to reach me amatyantse@gmail.com
-- 🌎 Know more about me on https://aaysharma.github.io/
-
-<!---
-aaysharma/aaysharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> -->
-
 ### Hey, My name's Amatya Sharma!!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aaysharma)
