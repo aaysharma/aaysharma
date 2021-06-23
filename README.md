@@ -1,11 +1,10 @@
-<h1 align="center">Hey 👋! I'm Amatya</h1>
-<h3 align="center">I am a Theoretical Computer Science enthusiast and a coffee aficionado</h3>
+<h1 >Hey 👋! I'm Amatya</h1>
+<h3 >I am a Theoretical Computer Science enthusiast and a coffee aficionado</h3>
 
-<p>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aaysharma)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amatya-sharma/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amatyantse@gmail.com)
-</p>
+
 
 Welcome to my Github page! My name is Amatya Sharma. I am a 5th Year Dual Degree (B.Tech+M.Tech) at Department of Computer Sciene and Engineering, Indian Institute of Technology Kharagpur.
 
