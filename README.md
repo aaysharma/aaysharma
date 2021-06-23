@@ -20,6 +20,8 @@ Welcome to my Github page! My name is Amatya Sharma. I am a 5th Year Dual Degree
 
 </p>
 
+<hr>
+
 Contact Me:
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aaysharma)
