@@ -7,7 +7,7 @@ Welcome to my Github page! My name is Amatya Sharma. I am a 5th Year Dual Degree
 
 
 #### 🌱 Things I am currently involved with: 
-- 🌱 I’m currently learning Algorithms in Learning Theory
+- 🌱 I like to explore theory cs, be it algorithms or algorithmic learning theory
 - 💞️ I’m looking to collaborate on Algorithm Design Problems specifically
   - Approximation, Online and Parameterized and Randomized Algorithms
   - Algorithmic Game Theory
